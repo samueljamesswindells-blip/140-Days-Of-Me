@@ -1,12 +1,7 @@
-140 Days of Me
+140 Days of Me — version 3
 
-QUICK START
-Open index.html in a desktop browser. Your check-ins are stored locally in that browser.
+Upload all five files to the ROOT of your existing GitHub Pages repository. Do not upload the ZIP itself.
 
-TO USE ON PHONE AS AN INSTALLABLE APP
-Upload all four files together to an HTTPS static web host (e.g. GitHub Pages or Netlify Drop). Open the resulting URL on your phone. On iPhone: Safari > Share > Add to Home Screen. On Android: Chrome > menu > Add to Home screen / Install app.
+IMPORTANT: Export a backup from the current app on EACH device before updating. Existing progress uses the same localStorage key days-of-me-v1 and previous walking/running/badminton ticks are counted as Cardio. Data stays separately on each device/browser and does not automatically sync.
 
-IMPORTANT
-Each browser/device keeps separate local data. Use Export backup and Import backup to move your data between devices. It does not automatically sync. Do not clear site data without exporting a backup.
-
-Streak counts consecutive days with at least one checked item; today is a grace day until tomorrow. The calendar covers exactly 140 days from the chosen start date.
+Weekly counters use calendar weeks Monday–Sunday, clipped to the current month. Monthly totals and all denominators are clipped to the 140-day challenge. A cardio day counts at most once, even if multiple cardio activities were selected.
